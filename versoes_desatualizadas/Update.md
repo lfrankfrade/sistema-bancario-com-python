@@ -1,3 +1,7 @@
+# Criando um sistema bancário com Python
+
+Este código tem como objetivo concluir um desafio de projeto do curso NTT DATA - Engenharia de Dados com Python - Secção: Trabalhando com coleções em Python, Oferecido pela [DIO](https://www.dio.me/bootcamp/engenharia-dados-python)
+
 # Atualizando o sistema bancário com python para segunda versão
 
 Separar as funções existentes de saque, depósito e extrato em funções de python.
